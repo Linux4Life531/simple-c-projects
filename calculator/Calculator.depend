@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589384146 source:/home/james/Documents/computingForLife/cPrograms/Calculator/main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
